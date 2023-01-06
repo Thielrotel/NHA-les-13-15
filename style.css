@@ -1,0 +1,264 @@
+body {
+  /*@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Open+Sans&display=swap")*/
+  background-color: rgb(250, 242, 231);
+}
+
+#header {
+  width: auto;
+  height: 150px;
+  background-color: antiquewhite;
+  border: solid 0.2rem rgb(169, 169, 6);
+}
+.CSS3 {
+  color: rgb(145, 145, 11);
+  margin-left: 36%;
+}
+ul {
+  margin-left: 10px;
+}
+ul a {
+  color: white;
+  text-decoration: none;
+}
+li {
+  display: inline-block;
+  height: 20px;
+  width: 100px;
+  padding: 6px;
+  margin-left: 10px;
+  text-align: center;
+  color: white;
+  border-left: 2px solid rgb(215, 17, 17);
+  border-right: 1px solid green;
+  background-color: olive;
+  border-radius: 10px;
+  box-shadow: 2px 3px rgb(186, 183, 183);
+}
+li:hover {
+  background-color: rgb(176, 176, 10);
+  border-style: none;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  background-color: rgb(250, 242, 231);
+}
+.pasfoto {
+  border: solid 1px black;
+}
+img {
+  float: left;
+  margin-right: 130px;
+}
+.float {
+  margin-left: 200px;
+}
+.tekstfoto {
+  color: rgb(145, 145, 11);
+}
+p {
+  color: rgb(145, 145, 11);
+}
+a {
+  color: aliceblue;
+}
+h1 {
+  color: rgb(145, 145, 11);
+}
+h2 {
+  color: rgb(145, 145, 11);
+}
+h3 {
+  color: rgb(145, 145, 11);
+}
+h6 {
+  color: blue;
+}
+.pa {
+  color: blue;
+}
+.midden {
+  width: auto;
+  height: 1200px;
+  background-color: antiquewhite;
+  border: solid 0.2rem rgb(169, 169, 6);
+}
+.copyright {
+  margin-left: 500px;
+  margin-top: 20px;
+  color: rgb(145, 145, 11);
+}
+.copyright2 {
+  margin-left: 80px;
+}
+.footer {
+  width: auto;
+  height: 200px;
+  background-color: antiquewhite;
+  border: solid 0.2rem rgb(169, 169, 6);
+}
+.contact {
+  color: rgb(145, 145, 11);
+  margin-left: 46%;
+}
+.mijncv {
+  color: rgb(145, 145, 11);
+  margin-left: 46%;
+}
+.Home {
+  height: 20px;
+  width: 100px;
+  padding: 8px;
+  margin-top: 40px;
+  text-align: center;
+  color: white;
+  border-left: 2px solid rgb(215, 17, 17);
+  border-right: 1px solid green;
+  background-color: olive;
+  border-radius: 10px;
+  box-shadow: 2px 3px rgb(186, 183, 183);
+}
+.beroeps {
+  margin-left: 630px;
+  margin-top: 60px;
+}
+.table {
+  margin-left: 300px;
+  margin-top: 100px;
+  border: solid 10px rgb(169, 169, 6);
+  width: 1000px;
+  height: 500px;
+}
+.form {
+  margin-left: 350px;
+  margin-top: 100px;
+  font-size: 20px;
+}
+input {
+  border: solid 2px rgb(169, 169, 6);
+  background-color: rgb(250, 242, 231);
+}
+textarea {
+  border: solid 2px rgb(169, 169, 6);
+  background-color: rgb(250, 242, 231);
+  height: 250px;
+  width: 450px;
+}
+.verzend {
+  color: blue;
+  border-color: rgb(11, 18, 225);
+}
+.mail {
+  height: 30px;
+  width: 140px;
+}
+#row1 {
+  background-color: rgb(169, 169, 6);
+  border-right: 2px solid rgb(169, 169, 6);
+  border-bottom: 2px solid rgb(169, 169, 6);
+}
+#row2 {
+  background-color: rgb(250, 242, 231);
+  border-right: 2px solid rgb(169, 169, 6);
+  border-bottom: 2px solid rgb(169, 169, 6);
+  text-align: center;
+  font-size: 30px;
+}
+#row3 {
+  background-color: rgb(169, 169, 6);
+  border-right: 2px solid rgb(169, 169, 6);
+  border-bottom: 2px solid rgb(169, 169, 6);
+}
+#row4 {
+  background-color: rgb(250, 242, 231);
+  border-right: 2px solid rgb(169, 169, 6);
+  border-bottom: 2px solid rgb(169, 169, 6);
+  text-align: center;
+  font-size: 30px;
+}
+#row5 {
+  background-color: rgb(250, 242, 231);
+  border-right: 2px solid rgb(169, 169, 6);
+  border-bottom: 2px solid rgb(169, 169, 6);
+}
+#row6 {
+  background-color: rgb(250, 242, 231);
+  border-right: 2px solid rgb(169, 169, 6);
+  border-bottom: 2px solid rgb(169, 169, 6);
+}
+#row7 {
+  background-color: rgb(237, 71, 11);
+  border-right: 2px solid rgb(169, 169, 6);
+  border-bottom: 2px solid rgb(169, 169, 6);
+  width: 80px;
+}
+#row8 {
+  background-color: rgb(250, 242, 231);
+  border-right: 2px solid rgb(169, 169, 6);
+  border-bottom: 2px solid rgb(169, 169, 6);
+}
+#row9 {
+  background-color: rgb(250, 242, 231);
+  border-right: 2px solid rgb(169, 169, 6);
+  border-bottom: 2px solid rgb(169, 169, 6);
+}
+#row10 {
+  background-color: rgb(250, 242, 231);
+  border-right: 2px solid rgb(169, 169, 6);
+  border-bottom: 2px solid rgb(169, 169, 6);
+}
+#row11 {
+  background-color: rgb(234, 237, 18);
+  border-right: 2px solid rgb(169, 169, 6);
+  border-bottom: 2px solid rgb(169, 169, 6);
+}
+#row12 {
+  background-color: rgb(250, 242, 231);
+  border-right: 2px solid rgb(169, 169, 6);
+  border-bottom: 2px solid rgb(169, 169, 6);
+}
+#row13 {
+  background-color: rgb(250, 242, 231);
+  border-right: 2px solid rgb(169, 169, 6);
+  border-bottom: 2px solid rgb(169, 169, 6);
+}
+#row14 {
+  background-color: rgb(250, 242, 231);
+  border-right: 2px solid rgb(169, 169, 6);
+  border-bottom: 2px solid rgb(169, 169, 6);
+}
+#row15 {
+  background-color: rgb(11, 18, 225);
+  border-right: 2px solid rgb(169, 169, 6);
+  border-bottom: 2px solid rgb(169, 169, 6);
+}
+#row16 {
+  background-color: rgb(250, 242, 231);
+  border-right: 2px solid rgb(169, 169, 6);
+  border-bottom: 2px solid rgb(169, 169, 6);
+}
+#row17 {
+  background-color: rgb(250, 242, 231);
+  border-right: 2px solid rgb(169, 169, 6);
+  border-bottom: 2px solid rgb(169, 169, 6);
+}
+#row18 {
+  background-color: rgb(250, 242, 231);
+  border-right: 2px solid rgb(169, 169, 6);
+  border-bottom: 2px solid rgb(169, 169, 6);
+}
+#row19 {
+  background: linear-gradient(
+    90deg,
+    rgb(21, 190, 66) 0%,
+    rgb(217, 232, 11) 100%
+  );
+  border-right: 2px solid rgb(169, 169, 6);
+  border-bottom: 2px solid rgb(169, 169, 6);
+}
+#row20 {
+  background-color: rgb(250, 242, 231);
+  border-right: 2px solid rgb(169, 169, 6);
+  border-bottom: 2px solid rgb(169, 169, 6);
+}
